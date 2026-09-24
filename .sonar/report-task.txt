@@ -1,0 +1,6 @@
+projectKey=Motel-gestor
+serverUrl=http://localhost:9000
+serverVersion=26.9.0.129388
+dashboardUrl=http://localhost:9000/dashboard?id=Motel-gestor
+ceTaskId=c7bc2fe1-e7be-45c4-a8b7-081ba6074be1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c7bc2fe1-e7be-45c4-a8b7-081ba6074be1
